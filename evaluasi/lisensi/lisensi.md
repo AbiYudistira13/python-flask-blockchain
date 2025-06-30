@@ -1,0 +1,1 @@
+Proyek ini menggunakan lisensi MIT yang bersifat permisif, memungkinkan siapa saja untuk mengubah dan mendistribusikan ulang kode selama tetap mencantumkan atribusi. Perubahan yang dilakukan, seperti penambahan fitur, pengujian, dan dokumentasi, sepenuhnya kompatibel dengan lisensi ini dan tidak melanggar ketentuan yang berlaku.
