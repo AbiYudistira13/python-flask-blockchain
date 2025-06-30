@@ -1,0 +1,47 @@
+{
+  "id": "99886c53-dd6c-441c-bc8f-ade85998c6a5",
+  "version": "2.0",
+  "name": "Flask App Testing.",
+  "url": "https://legendary-zebra-jj4r9jv6rqqv3qqj6-5000.app.github.dev",
+  "tests": [{
+    "id": "094743af-819a-4091-b86b-b83874069d03",
+    "name": "Untitled",
+    "commands": [{
+      "id": "19d4d9d8-64e0-4db2-b5de-a8bc7ec6aad5",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "353e7096-23b6-4535-ac72-79e73a534a7e",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x692",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c7f81961-e060-4877-982e-bbcb9c7fddeb",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continue')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5f5ce5f9-2c2c-4aa8-bc11-4df40cbb2840",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["094743af-819a-4091-b86b-b83874069d03"]
+  }],
+  "urls": ["https://legendary-zebra-jj4r9jv6rqqv3qqj6-5000.app.github.dev/"],
+  "plugins": []
+}
